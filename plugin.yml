@@ -2,7 +2,7 @@
 name: SlapperRotationV2
 version: 2.0.5
 main: xqwtxon\SlapperRotationV2\Main
-api: 4.0.0
+api: 5.0.0
 src-namespace-prefix: xqwtxon\SlapperRotationV2
 depend: Slapper
 author: xqwtxon
